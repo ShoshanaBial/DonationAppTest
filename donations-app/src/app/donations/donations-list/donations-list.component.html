@@ -1,0 +1,15 @@
+<div class="donation-list">
+    <div *ngFor="let donation of donationsList$ | async; trackBy: trackByDonation">
+        <app-donation-item [donation]="donation"></app-donation-item>
+    </div>
+    <button pButton pRipple type="button" label="הוספת תרומה" class="p-button-rounded add-btn" (click)="addDonation()"></button>
+    <div *ngIf="donationDialog">
+        <p-dialog [(visible)]="donationDialog" [style]="{width: '750px'}" [header]="'הוספת תרומה'" [modal]="true" styleClass="p-fluid" (onHide)="hideDialog()">
+            <ng-template pTemplate="content">
+                <app-donation-form></app-donation-form>
+            </ng-template>
+        </p-dialog>
+    </div>
+
+
+</div>

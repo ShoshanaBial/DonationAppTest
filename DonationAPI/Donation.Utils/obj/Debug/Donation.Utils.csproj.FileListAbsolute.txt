@@ -1,0 +1,5 @@
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Utils\bin\Debug\Donation.Utils.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Utils\bin\Debug\Donation.Utils.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Utils\obj\Debug\Donation.Utils.csproj.CoreCompileInputs.cache
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Utils\obj\Debug\Donation.Utils.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Utils\obj\Debug\Donation.Utils.pdb

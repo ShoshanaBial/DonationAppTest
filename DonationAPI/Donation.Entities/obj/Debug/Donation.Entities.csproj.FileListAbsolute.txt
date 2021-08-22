@@ -1,0 +1,6 @@
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\bin\Debug\Donation.Entities.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\bin\Debug\Donation.Entities.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\obj\Debug\Donation.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\obj\Debug\Donation.Entities.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\obj\Debug\Donation.Entities.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.Entities\obj\Debug\Donation.Entities.csproj.AssemblyReference.cache

@@ -1,0 +1,30 @@
+.donation-item-container {
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    border: 1px solid #b1a4a4a3;
+    width: 100%;
+    font-size: 16px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    .d-flex {
+        display: flex;
+    }
+    .foreign-name {
+        font-weight: bold;
+        margin-left: 10px;
+    }
+}
+
+.icons {
+    //  margin-left: 8px;
+    button {
+        background: none;
+        border: none;
+    }
+}
+
+fa-icon {
+    margin-right: 2.5mm;
+}

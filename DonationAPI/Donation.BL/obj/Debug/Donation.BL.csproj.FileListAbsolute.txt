@@ -1,0 +1,13 @@
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\obj\Debug\Donation.BL.csproj.CoreCompileInputs.cache
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.BL.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.BL.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.DAL.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.Entities.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.Utils.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.DAL.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.Entities.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\bin\Debug\Donation.Utils.pdb
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\obj\Debug\Donation.BL.csproj.AssemblyReference.cache
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\obj\Debug\Donation.BL.csproj.CopyComplete
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\obj\Debug\Donation.BL.dll
+C:\Users\Shoshana\Documents\HomeTest\DonationAPI\Donation.BL\obj\Debug\Donation.BL.pdb

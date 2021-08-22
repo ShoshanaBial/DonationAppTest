@@ -1,0 +1,25 @@
+<div class="donation-item-container p-grid">
+    <div class="d-flex donation-row p-col">
+        <div class="d-flex p-col-5 p-offset-5">
+            <div class="foreign-name">{{donation.foreignPoliticalEntityName}}</div>
+            <div>{{donation.amountNIS }} ש"ח </div>
+        </div>
+        <div class="icons p-col-4">
+            <button (click)="editDonation(false)" title="עריכה">
+                <fa-icon [icon]="faPencilAlt"></fa-icon>
+            </button>
+            <button (click)="deleteDonation()" title="מחיקה">
+                <fa-icon [icon]="faTrashAlt"></fa-icon>
+            </button>
+            <span class="i">|</span>
+            <button (click)="editDonation(true)" title="תצוגה">
+                <fa-icon [icon]="faChevron"></fa-icon>
+            </button>
+
+        </div>
+    </div>
+
+    <div class="p-col-12" *ngIf="donation.showForm">
+        <app-donation-form [donation]="donation"></app-donation-form>
+    </div>
+</div>
